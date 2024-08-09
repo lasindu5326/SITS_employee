@@ -14,7 +14,7 @@ if ($conn->connect_error) {
 }
 
 
-
+//hi
 $first_name = $_POST['first_name'];
 $last_name = $_POST['last_name'];
 $password = $_POST['password']; 
